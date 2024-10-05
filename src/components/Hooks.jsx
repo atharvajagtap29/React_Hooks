@@ -14,7 +14,8 @@
 // import FormExample from "./ReducerHooks/Example-2";
 
 // Context Hooks
-import Context_Example_1 from "./ContextHooks/Example-1/Exg-1";
+// import Context_Example_1 from "./ContextHooks/Example-1/Exg-1";
+import Context_Example_2 from "./ContextHooks/Example-2/Exg-2";
 
 const StateHook = () => {
   return (
@@ -35,7 +36,8 @@ const StateHook = () => {
       {/* <FormExample /> */}
 
       {/* useContext hook examples */}
-      <Context_Example_1 />
+      {/* <Context_Example_1 /> */}
+      <Context_Example_2 />
     </>
   );
 };
